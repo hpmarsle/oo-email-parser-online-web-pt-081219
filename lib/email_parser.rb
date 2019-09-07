@@ -15,4 +15,7 @@ class EmailAddressParser
     @emails_to_parse.split(/ |, |,/).uniq
   end 
   
+  # another way to do this
+  
+  
 end 
